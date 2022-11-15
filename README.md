@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishwajeet Yermune
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning in Sinhgad College Of Engineering Pune
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web related project
 - 📫 How to reach me ...
 
 <!---
